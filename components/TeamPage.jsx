@@ -12,52 +12,52 @@ const TeamPage = () => {
   const teamMembers = [
     {
       name: "Talha Faisal",
-      role: "Founder & CEO",
-      bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      role: "Frontend Developer",
+      bio: "Google DSC KIET Lead.",
       image: "/Talha.jpg", // Place the image in the public directory
       social: {
-        twitter: "https://twitter.com/johndoe",
-        linkedin: "https://linkedin.com/in/johndoe",
+        twitter: "https://twitter.com/",
+        linkedin: "https://www.linkedin.com/in/talhafaisal/",
       },
     },
     {
       name: "Talib Farooq",
-      role: "Lead Designer",
-      bio: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      role: "Data Scientist",
+      bio: "A tech enthusiast and data aficionado with a mission to bridge theory and practice.",
       image: "/Talib.jpg", // Place the image in the public directory
       social: {
-        twitter: "https://twitter.com/janesmith",
-        linkedin: "https://linkedin.com/in/janesmith",
+        twitter: "https://twitter.com/",
+        linkedin: "https://www.linkedin.com/in/mtalibfarooq/",
+      },
+    },
+    {
+      name: "Mahad Ahmed",
+      role: "Backend Developer",
+      bio: "Tech Team Lead Google DSC KIET.",
+      image: "", // Place the image in the public directory
+      social: {
+        twitter: "https://twitter.com/",
+        linkedin: "https://www.linkedin.com/in/mahad-ahmed-817919160/",
+      },
+    },
+    {
+      name: "Laxmi Tiwari",
+      role: "ML Engineer",
+      bio: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      image: "/jane-smith.jpg", // Place the image in the public directory
+      social: {
+        twitter: "https://twitter.com/",
+        linkedin: "https://www.linkedin.com/in/laxmi-tiwari/",
       },
     },
     {
       name: "Abdul Wahab",
-      role: "Lead Designer",
-      bio: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      role: "ML Engineer",
+      bio: "Aspiring AI Engineer with a passion for generative models and their potential to create innovative solutions..",
       image: "/Wahab.jpg", // Place the image in the public directory
       social: {
-        twitter: "https://twitter.com/janesmith",
-        linkedin: "https://linkedin.com/in/janesmith",
-      },
-    },
-    {
-      name: "Jane Smith",
-      role: "Lead Designer",
-      bio: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-      image: "/jane-smith.jpg", // Place the image in the public directory
-      social: {
-        twitter: "https://twitter.com/janesmith",
-        linkedin: "https://linkedin.com/in/janesmith",
-      },
-    },
-    {
-      name: "Jane Smith",
-      role: "Lead Designer",
-      bio: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-      image: "/jane-smith.jpg", // Place the image in the public directory
-      social: {
-        twitter: "https://twitter.com/janesmith",
-        linkedin: "https://linkedin.com/in/janesmith",
+        twitter: "https://twitter.com/",
+        linkedin: "https://www.linkedin.com/in/abdul-wahab-khan-083573232/",
       },
     },
     // Add more team members here
