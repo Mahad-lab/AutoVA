@@ -10,7 +10,7 @@ const ChatMessage = ({ message }) => {
     var config = {
       method: "post",
       maxBodyLength: Infinity,  
-      url: "https://app.superagi.com/api/v1/agent//", //{{URL}}/api/v1/agent/{agent_id}/run'
+      url: "https://app.superagi.com/api/v1/agent", //{{URL}}/api/v1/agent/{agent_id}/run'
       headers: {
         "X-API-Key": "829637e2-b293-415b-9d6d-4c71dfb32e2b",
       },
