@@ -34,7 +34,7 @@ const TeamPage = () => {
       name: "Mahad Ahmed",
       role: "Backend Developer",
       bio: "Tech Team Lead Google DSC KIET.",
-      image: "", // Place the image in the public directory
+      image: "/Mahad.jpg", // Place the image in the public directory
       social: {
         twitter: "https://twitter.com/",
         linkedin: "https://www.linkedin.com/in/mahad-ahmed-817919160/",
@@ -43,8 +43,8 @@ const TeamPage = () => {
     {
       name: "Laxmi Tiwari",
       role: "ML Engineer",
-      bio: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-      image: "/jane-smith.jpg", // Place the image in the public directory
+      bio: "AI Engineer| Implement RL/MARL",
+      image: "/Laxmi.jpg", // Place the image in the public directory
       social: {
         twitter: "https://twitter.com/",
         linkedin: "https://www.linkedin.com/in/laxmi-tiwari/",

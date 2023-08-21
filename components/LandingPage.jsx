@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 
 const LandingPage = () => {
@@ -18,20 +19,20 @@ const LandingPage = () => {
             and product that can be sold year round.
           </p>
           <div className="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
-            <a
+            <Link
               rel="noopener noreferrer"
-              href="#"
+              href="pricing"
               className="px-8 py-3 text-lg font-semibold rounded dark:bg-violet-400 dark:text-gray-900"
             >
               Pricing Plans
-            </a>
-            <a
+            </Link>
+            <Link
               rel="noopener noreferrer"
-              href="#"
+              href="/chat"
               className="px-8 py-3 text-lg font-semibold border rounded dark:border-gray-100"
             >
               Try for free
-            </a>
+            </Link>
           </div>
         </div>
         <div className="flex items-center justify-center p-10 mt-8 lg:mt-0 h-full sm:h-80 lg:h-96 xl:h-112 2xl:h-128">
