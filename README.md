@@ -10,7 +10,7 @@ yarn dev
 pnpm dev
 ```
 
-# RoboVA
+# AutoVA
 
 *AutoVA: Your Ultimate Virtual Assistant for Seamless Business Management*
 
